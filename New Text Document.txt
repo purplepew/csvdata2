@@ -1,0 +1,16 @@
+model,speed,rating,horsepower
+Maxwell,32,56,21
+Lowe,19,48,56
+Carlson,50,42,58
+Figueroa,62,33,48
+Rodriguez,37,36,46
+Ramos,35,64,23
+Summers,61,26,36
+Cannon,54,40,44
+Hopkins,34,39,26
+Salazar,44,34,28
+Norman,20,50,55
+Jenkins,26,57,30
+Moreno,49,54,60
+Barnett,42,27,38
+Bryan,57,20,36
